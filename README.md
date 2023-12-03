@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @casperngeen
-- 👀 I’m interested in software engineering, ML, AI
-- 🌱 I’m currently learning basic programming
+- 👀 I’m interested in software engineering, ML, AI and algorithms
+- 🌱 I’m currently learning programming in these fields
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
